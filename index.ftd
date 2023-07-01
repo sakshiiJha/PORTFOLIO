@@ -21,7 +21,7 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /portfolio
+logoURL: /PORTFOLIO
 header-item1: Home
 header-item2: About
 header-item3: Blogs
@@ -30,8 +30,8 @@ header-item1-link: /portfolio
 header-item2-link: /portfolio/about
 header-item3-link: /portfolio/blogs
 header-item4-link: /portfolio/projects
-cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
+cta-item2: Schedule a Meet
+cta-item2-link: https://discord.com/channels/793929082483769345/1116321156920774687
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -45,7 +45,7 @@ cta-item2-link: https://calendly.com/ayushsoni1010
 
 -- toast.stack: 
 title: Hello, I'm aspiring fastn developer based in India
-link: YOUR_GITHUB_HANLDE
+link: https://github.com/sakshiiJha/
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -71,7 +71,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: sakshiiJha,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -95,11 +95,11 @@ spacing.fixed.px: 10
 
 -- button.secondary: 
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:jhasakshi20947@gmail.com
 
 -- button.primary: 
-title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+title: Schedule a Meet
+link: https://discord.com/channels/793929082483769345/1116321156920774687
 isNewTab: true
 
 -- end: ftd.row
@@ -117,27 +117,27 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: YOUR_LINKEDIN_HANLDE
+link: https://www.linkedin.com/in/sakshi-jha-482b44281/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: YOUR_TWITTER_HANDLE
+link: https://twitter.com/SakshiJha0627
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: YOUR_GITHUB_HANLDE
+link: https://github.com/sakshiiJha/
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: YOUR_INSTAGRAM_HANLDE
+link: https://www.instagram.com/sakshi_jha1912/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: YOUR-YOUTUBE_HANDLE
+link: https://www.youtube.com/@taido5697
 image: $assets.files.images.youtube.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:jhasakshi20947@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
